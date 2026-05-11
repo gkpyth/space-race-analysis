@@ -1,0 +1,25 @@
+# Environment
+.env
+venv/
+.venv/
+env/
+
+# Data - raw source files stay local
+data/raw/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
