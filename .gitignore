@@ -7,6 +7,9 @@ env/
 # Data - raw source files stay local
 data/raw/
 
+# Data - processed data files stay local
+data/processed
+
 # Jupyter
 .ipynb_checkpoints/
 
